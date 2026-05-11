@@ -18,90 +18,90 @@
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 24250,
+          "nontransparent_pixels": 24214,
           "bbox": [
+            12,
             5,
-            9,
-            187,
-            199
+            180,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 228
+          "chroma_adjacent_pixels": 214
         },
         {
           "index": 1,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23987,
+          "nontransparent_pixels": 24542,
           "bbox": [
-            5,
             11,
-            187,
-            196
+            5,
+            180,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 274
+          "chroma_adjacent_pixels": 253
         },
         {
           "index": 2,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23607,
+          "nontransparent_pixels": 24718,
           "bbox": [
+            10,
             5,
-            12,
-            187,
-            196
+            181,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 225
+          "chroma_adjacent_pixels": 309
         },
         {
           "index": 3,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26178,
+          "nontransparent_pixels": 24485,
           "bbox": [
+            11,
             5,
-            6,
-            187,
-            201
+            181,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 356
+          "chroma_adjacent_pixels": 226
         },
         {
           "index": 4,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 23563,
+          "nontransparent_pixels": 24444,
           "bbox": [
+            12,
             5,
-            10,
-            187,
-            197
+            180,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 275
+          "chroma_adjacent_pixels": 191
         },
         {
           "index": 5,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\idle\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25166,
+          "nontransparent_pixels": 24262,
           "bbox": [
+            12,
             5,
-            7,
-            187,
-            200
+            180,
+            203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 292
+          "chroma_adjacent_pixels": 248
         }
       ]
     },
