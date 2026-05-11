@@ -8,6 +8,7 @@ Mimi 是一只完整身体的奶油金色动漫像素小猫。最终产物包括
 - 动画行源图：`assets/animation-rows/`
 - QA 与验证文件：`assets/qa/`
 - 白底壁纸：电脑、手机、手表、微信背景，见 `assets/wallpapers/`
+- 六帧舔爪动作序列壁纸：把 idle 的完整舔爪过程排进壁纸
 - 设计过程与 prompt：`design-notes/`
 - 白底壁纸生成脚本：`scripts/make_wallpapers.py`
 
@@ -16,6 +17,8 @@ Mimi 是一只完整身体的奶油金色动漫像素小猫。最终产物包括
 ![Mimi contact sheet](assets/qa/contact-sheet.png)
 
 ![Mimi wallpapers](assets/wallpapers/mimi-wallpaper-preview.png)
+
+![Mimi idle sequence wallpapers](assets/wallpapers/mimi-idle-sequence-preview.png)
 
 ## Main Files
 
@@ -26,7 +29,7 @@ Mimi 是一只完整身体的奶油金色动漫像素小猫。最终产物包括
 | `assets/qa/contact-sheet.png` | 所有动画状态的总览 |
 | `assets/qa/validation.json` | atlas 尺寸、透明度和帧校验 |
 | `assets/animation-rows/*.png` | base 与各动画行的原始生成结果 |
-| `assets/wallpapers/*.png` | 白底壁纸导出 |
+| `assets/wallpapers/*.png` | 白底壁纸导出，包括单只 Mimi 和六帧舔爪序列版本 |
 | `design-notes/*.html` | 对话里用浏览器确认过的设计方向页面 |
 | `design-notes/base-prompt.md` | 基础小猫生成 prompt |
 | `design-notes/row-prompts/` | 各动画行 prompt |
@@ -46,3 +49,11 @@ Mimi 是一只完整身体的奶油金色动漫像素小猫。最终产物包括
 ## Latest Update
 
 停下来的 `idle` 动画已改成更可爱的舔爪动作：Mimi 只抬同一只前爪舔一次，然后放下并回到站好状态，不做左右来回切换。
+
+这六帧动作也已做进白底壁纸：
+
+- `mimi-idle-sequence-desktop-3840x2160-white.png`
+- `mimi-idle-sequence-phone-1440x3200-white.png`
+- `mimi-idle-sequence-wechat-1080x1920-white.png`
+- `mimi-idle-sequence-watch-410x502-white.png`
+- `mimi-idle-sequence-watch-396x484-white.png`
