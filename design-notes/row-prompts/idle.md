@@ -17,6 +17,8 @@ Use this prompt as an authoritative sprite-production spec. Do not expand it int
 
 Animation action: neutral breathing/blinking loop.
 
+Latest override: Codex idle state now shows Mimi resting on top of a closed laptop. The laptop is closed, compact, muted warm gray, with no logo, no text, and no symbols. Mimi should look relaxed and sleepy, using only tiny breathing, blinking, and nestling motion.
+
 
 State-specific requirements:
 - CRITICAL: idle is the low-distraction baseline state and the first frame is also used as the reduced-motion static pet.

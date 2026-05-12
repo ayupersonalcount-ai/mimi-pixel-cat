@@ -13,42 +13,42 @@
       "row": 0,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 24214
+      "nontransparent_pixels": 19755
     },
     {
       "state": "idle",
       "row": 0,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 24542
+      "nontransparent_pixels": 19502
     },
     {
       "state": "idle",
       "row": 0,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 24718
+      "nontransparent_pixels": 19039
     },
     {
       "state": "idle",
       "row": 0,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 24485
+      "nontransparent_pixels": 18520
     },
     {
       "state": "idle",
       "row": 0,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 24444
+      "nontransparent_pixels": 18796
     },
     {
       "state": "idle",
       "row": 0,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 24262
+      "nontransparent_pixels": 19383
     },
     {
       "state": "idle",
@@ -181,28 +181,28 @@
       "row": 3,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 24629
+      "nontransparent_pixels": 10100
     },
     {
       "state": "waving",
       "row": 3,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 24717
+      "nontransparent_pixels": 14472
     },
     {
       "state": "waving",
       "row": 3,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 24218
+      "nontransparent_pixels": 14544
     },
     {
       "state": "waving",
       "row": 3,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 24426
+      "nontransparent_pixels": 12795
     },
     {
       "state": "waving",
@@ -405,42 +405,42 @@
       "row": 7,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 23959
+      "nontransparent_pixels": 18203
     },
     {
       "state": "running",
       "row": 7,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 23837
+      "nontransparent_pixels": 15007
     },
     {
       "state": "running",
       "row": 7,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 23565
+      "nontransparent_pixels": 18067
     },
     {
       "state": "running",
       "row": 7,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 23639
+      "nontransparent_pixels": 20556
     },
     {
       "state": "running",
       "row": 7,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 22750
+      "nontransparent_pixels": 17650
     },
     {
       "state": "running",
       "row": 7,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 25438
+      "nontransparent_pixels": 17288
     },
     {
       "state": "running",

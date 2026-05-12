@@ -17,6 +17,8 @@ Use this prompt as an authoritative sprite-production spec. Do not expand it int
 
 Animation action: greeting gesture with raised wave and return.
 
+Latest override: Mouse-click interaction now shows Mimi sitting up and touching a small simplified human hand with one paw, like a cute paw high-five. Avoid hearts, exclamation marks, motion marks, sparkles, wave marks, or any other detached effects.
+
 
 State-specific requirements:
 - Show the greeting through paw pose only: paw down, paw raised, paw tilted, paw returning.

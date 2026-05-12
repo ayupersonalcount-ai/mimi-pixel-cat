@@ -48,9 +48,13 @@ Mimi 是一只完整身体的奶油金色动漫像素小猫。最终产物包括
 
 ## Latest Update
 
-停下来的 `idle` 动画已改成更可爱的舔爪动作：Mimi 只抬同一只前爪舔一次，然后放下并回到站好状态，不做左右来回切换。
+Mimi 的 Codex 状态语义已更新：
 
-这六帧动作也已做进白底壁纸：
+- `idle`: Codex 空闲时，Mimi 在一台合上的笔记本上休息
+- `running`: Codex 正在输出时，Mimi 好奇地玩一台打开的笔记本，不敲键盘
+- `waving`: 鼠标点击时，Mimi 坐起来和手贴爪
+
+上一版的六帧舔爪动作仍保留在白底序列壁纸中：
 
 - `mimi-idle-sequence-desktop-3840x2160-white.png`
 - `mimi-idle-sequence-phone-1440x3200-white.png`

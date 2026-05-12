@@ -17,6 +17,8 @@ Use this prompt as an authoritative sprite-production spec. Do not expand it int
 
 Animation action: active working/in-progress loop.
 
+Latest override: Codex output state now shows Mimi curiously playing with an open laptop like a cat. Mimi may peek at the screen edge, sniff the laptop, place one tiny paw on a corner, tilt her head, and watch the screen. She must not type, sit like a human worker, or show code/text on the laptop.
+
 
 State-specific requirements:
 - Show the pet actively working or processing, as if running a task: focused posture, busy hands or paws, purposeful bobbing, thinking motion, tool/prop motion only if already part of the pet identity, or other non-locomotion activity.
