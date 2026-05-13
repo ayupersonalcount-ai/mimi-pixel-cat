@@ -17,6 +17,8 @@ Use this prompt as an authoritative sprite-production spec. Do not expand it int
 
 Animation action: focused inspecting or review loop.
 
+Latest override: repair row 8 so Mimi never appears to have five legs or paws. Do not show paw licking, hand licking, a paw at the mouth, or overlapping raised paws. Use head tilt, blink, and a slight lean for review while every frame clearly reads as exactly four paws total.
+
 
 State-specific requirements:
 - Show review through lean, blink, narrowed eyes, head tilt, or paw position.

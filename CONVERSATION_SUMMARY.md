@@ -97,3 +97,16 @@ Mimi 的稳定身份：
 - `waving`: 4 帧，坐起来并用前爪贴手
 
 重新打包后，`validation.json` 和 `review.json` 仍然无错误、无警告。
+
+## Review Row Limb Fix
+
+用户发现 row 8 `review` 状态里，旧的舔爪/抱爪姿势会把前爪和腿脚读成 5 个。
+
+修复方式：
+
+- 只替换 `review` 这一行，其它动画不动
+- 移除舔爪和爪子靠嘴的姿势
+- 改成普通 review 姿态：坐姿、歪头、眨眼、轻微前倾
+- 每一帧都保持四只爪清楚可读
+
+重新打包后，`validation.json` 和 `review.json` 仍然无错误、无警告。

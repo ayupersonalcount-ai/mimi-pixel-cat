@@ -457,14 +457,14 @@
       ],
       "mirror_policy": {},
       "recording_owner": "parent",
-      "source_path": "C:\\Users\\123\\.codex\\generated_images\\019e15bd-2af5-7b62-8e8f-346379065318\\ig_0ea52bc6858e36ab016a01846a32208194b9b1a3c60c69de8f.png",
+      "source_path": "C:\\Users\\123\\.codex\\generated_images\\019e15bd-2af5-7b62-8e8f-346379065318\\ig_0a801773ee216bbb016a040088030c8194a34a88f326677ee4.png",
       "source_provenance": "built-in-imagegen",
-      "source_sha256": "644b181526f447992f52e8226309367326ccc73be10edc16f7481a67001edf3c",
-      "output_sha256": "644b181526f447992f52e8226309367326ccc73be10edc16f7481a67001edf3c",
-      "completed_at": "2026-05-11T07:26:58.809550+00:00",
+      "source_sha256": "43b170ab5e5256d859cb05c3913a3ac419fcd4ee39b9a86938d484add7fa1414",
+      "output_sha256": "43b170ab5e5256d859cb05c3913a3ac419fcd4ee39b9a86938d484add7fa1414",
+      "completed_at": "2026-05-13T04:42:55.599446+00:00",
       "metadata": {
-        "width": 1774,
-        "height": 887,
+        "width": 2172,
+        "height": 724,
         "mode": "RGB",
         "format": "PNG"
       }

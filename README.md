@@ -54,6 +54,8 @@ Mimi 的 Codex 状态语义已更新：
 - `running`: Codex 正在输出时，Mimi 好奇地玩一台打开的笔记本，不敲键盘
 - `waving`: 鼠标点击时，Mimi 坐起来和手贴爪
 
+另外修正了 row 8 `review`：移除容易读成 5 个腿脚的舔爪姿势，改成四只爪清楚可读的专注 review 动作。
+
 上一版的六帧舔爪动作仍保留在白底序列壁纸中：
 
 - `mimi-idle-sequence-desktop-3840x2160-white.png`

@@ -871,22 +871,22 @@
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 22586,
+          "nontransparent_pixels": 23764,
           "bbox": [
-            19,
+            17,
             5,
-            172,
+            175,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 306
+          "chroma_adjacent_pixels": 229
         },
         {
           "index": 1,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 20870,
+          "nontransparent_pixels": 21444,
           "bbox": [
             22,
             5,
@@ -894,59 +894,44 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 310
+          "chroma_adjacent_pixels": 254
         },
         {
           "index": 2,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 26873,
+          "nontransparent_pixels": 23618,
           "bbox": [
-            15,
+            18,
             5,
-            177,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 404
+          "chroma_adjacent_pixels": 320
         },
         {
           "index": 3,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21611,
+          "nontransparent_pixels": 25164,
           "bbox": [
-            24,
             5,
-            168,
-            203
+            13,
+            187,
+            195
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 226
+          "chroma_adjacent_pixels": 236
         },
         {
           "index": 4,
           "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 25669,
-          "bbox": [
-            8,
-            5,
-            184,
-            203
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 306
-        },
-        {
-          "index": 5,
-          "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 21594,
+          "nontransparent_pixels": 21598,
           "bbox": [
             20,
             5,
@@ -954,7 +939,22 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 268
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 5,
+          "file": "D:\\workspace\\DTCode\\.superpowers\\hatch-pet\\mimi-1778482148\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23654,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
         }
       ]
     }
